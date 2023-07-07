@@ -1,5 +1,3 @@
-# Curriculum vitae publicum
+# Curriculum vitae
 
-[Curriculum Novissimum Vitae](CV-2023-02-07.pdf)
-
-[Newest CV](CV-2023-02-07.pdf)
+[Newest CV](CV-2023-07-07.pdf)
