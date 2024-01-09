@@ -1,3 +1,5 @@
 # Curriculum vitae
 
-[Newest CV](CV-2023-07-07.pdf)
+You can find the newest CV [here](CV-2024-01-08.pdf).
+
+[Hoc](CV-2024-01-08.pdf) curiculum vitae novissimum invenire potes.
