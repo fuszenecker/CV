@@ -1,3 +1,3 @@
 # Curriculum vitae
 
-You can find the newest CV [here](CV-2025-08-19.pdf).
+You can find the newest CV [here](CV-2026-05-27.pdf).
